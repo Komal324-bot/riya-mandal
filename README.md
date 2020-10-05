@@ -1,2 +1,3 @@
 # riya-mandal
-calculator
+calculator for everyone
+want to make with c
