@@ -6,6 +6,7 @@ code ;
 #include <stdio.h>
 int main()
 {
+//operators
    int first, second, add, subtract, multiply;
    float divide;
  
